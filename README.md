@@ -1,1 +1,1 @@
-# -
+Our experiments are carried out on a workstation equipped with Intel(R) Xeon(R) Gold 6132 CPU @ 2.60GHz, NVIDIA Geforce GTX 1080Ti GPU and 192 GB RAM. The modules of DLP in the experiments are implemented by Python 3.8.3 with Pytorch 1.11.0. 
